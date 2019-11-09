@@ -45,7 +45,7 @@ Once you have a look around, go back to your text editor, open up the HTML file,
 <link rel="stylesheet" href="css/styles-final.css" />
 ```
 
-Change the name of the CSS file from `styles-final.css` to `styles-starter.css`. If you refresh the page in your browser, you'll notice that most of the styles are gone, aside from some basic defaults that I've included
+Change the name of the CSS file from `styles-final.css` to `styles-starter.css`. If you refresh the page in your browser, you'll notice that most of the styles are gone, aside from some basic defaults that I've included to get us started.
 
 ## A note on class names
 
