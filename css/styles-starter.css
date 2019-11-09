@@ -1,0 +1,45 @@
+/* Variables */
+:root {
+  --primary: #dc5d4b;
+  --primary-alt: #700000;
+
+  --secondary: #A7DBE2;
+  --secondary-alt: #7CC7F9;
+
+  --white: #f9f4e7;
+  --black: #393939;
+}
+
+/*
+RGB values for hex:
+--primary: 220, 93, 75
+--primary-alt: 112, 0, 0
+--black: 57, 57, 57
+*/
+
+/* Global settings */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--white);
+  color: var(--black);
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
+  font-size: 1.8rem;
+}
+
+a,
+a:link,
+a:visited {
+  text-decoration: none;
+  color: var(--black);
+}
