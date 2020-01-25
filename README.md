@@ -2,6 +2,8 @@
 
 These are the project files for our project - Travel Salmon, a fake company I made up, whose website we'll be building.
 
+Preview the finished site here: https://hwi-november-19.netlify.com/
+
 ## Getting started
 
 If you have `git` installed, you can clone this project using one of the URLs above:
